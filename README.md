@@ -10,3 +10,17 @@ O código abaixo realiza esta tarefa. O objetivo é identificar e acompanhar um 
 
 ![](https://github.com/henriqueburis/Object_detection_opencv/blob/main/fig/exemplo.PNG)
 
+
+## Code organization
+
+- `opencv_hsv.py`: .
+
+
+
+## Train
+you can now carry out "run" the python scrypt with the following command:
+
+```sh
+python3 opencv_hsv.py 
+
+```
